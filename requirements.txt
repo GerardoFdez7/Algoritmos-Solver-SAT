@@ -1,0 +1,14 @@
+# Dependencias del proyecto DPLL Algorithm
+# Python 3.7 o superior requerido
+
+# No se requieren dependencias externas para la funcionalidad básica
+# El proyecto utiliza únicamente la biblioteca estándar de Python
+
+# Dependencias opcionales para desarrollo y testing:
+# pytest>=6.0.0  # Para pruebas unitarias
+# black>=21.0.0   # Para formateo de código
+# flake8>=3.8.0   # Para análisis de código
+# mypy>=0.800     # Para verificación de tipos
+
+# Nota: Este proyecto está diseñado para funcionar sin dependencias externas
+# para facilitar su ejecución en cualquier entorno con Python estándar.
